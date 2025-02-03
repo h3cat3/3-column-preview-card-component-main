@@ -29,11 +29,11 @@ body {
 }
 .card {
     width: 90%;
-    height: 90%;
+    height: 95%;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
-    margin: 10px;
+ 
     }
 .heading {
     font-family: 'Big Shoulders Display';
