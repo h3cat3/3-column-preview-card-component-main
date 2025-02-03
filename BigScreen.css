@@ -1,0 +1,7 @@
+@media (min-width: 901px) {
+    .card {
+        flex-direction: row;
+        width: 920px;
+        height: 500px;
+    }
+}
